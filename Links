@@ -1,2 +1,5 @@
 Cosmos DB .Net core 2.x and 3 code samples
 https://github.com/Azure/azure-cosmos-dotnet-v3/tree/master/Microsoft.Azure.Cosmos.Samples
+
+Configure application gateway with Azure app service.
+https://techcommunity.microsoft.com/t5/Azure-App-Service/Setting-up-Application-Gateway-with-WAF-with-an-App-Service-that/ba-p/392639
