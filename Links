@@ -1,5 +1,9 @@
 Cosmos DB .Net core 2.x and 3 code samples
-https://github.com/Azure/azure-cosmos-dotnet-v3/tree/master/Microsoft.Azure.Cosmos.Samples
+  1. https://github.com/Azure/azure-cosmos-dotnet-v3/tree/master/Microsoft.Azure.Cosmos.Samples
+
+Best Security practices for Cosmos DB Security
+  https://azure.microsoft.com/en-us/blog/how-to-develop-secure-applications-using-azure-cosmos-db/
+
 
 Configure application gateway with Azure app service.
   1. https://docs.microsoft.com/en-us/azure/application-gateway/configure-web-app-portal
