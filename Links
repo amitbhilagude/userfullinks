@@ -10,4 +10,6 @@ Configure application gateway with Azure app service.
   2. With High security traffic between application gateway and app service.
         https://www.patrickob.com/2019/02/20/app-service-w-app-gateway-v2-high-security-in-azure-paas/
         
-        
+Azure AD Authentication with Web App .net core samples
+  https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
+  
