@@ -4,6 +4,11 @@ Cosmos DB .Net core 2.x and 3 code samples
 Best Security practices for Cosmos DB Security
   https://azure.microsoft.com/en-us/blog/how-to-develop-secure-applications-using-azure-cosmos-db/
 
+Secure Webapplicaiton in Azure steps
+  https://docs.microsoft.com/en-us/azure/security/develop/secure-aad-app
+  
+  Chossing load balancing solution
+https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/load-balancing-overview
 
 Configure application gateway with Azure app service.
   1. https://docs.microsoft.com/en-us/azure/application-gateway/configure-web-app-portal
@@ -12,4 +17,10 @@ Configure application gateway with Azure app service.
         
 Azure AD Authentication with Web App .net core samples
   https://github.com/Azure-Samples/active-directory-aspnetcore-webapp-openidconnect-v2
+
+Visual Studio code configuration with GitHub
+http://www.notyourdadsit.com/blog/2018/4/3/cheatsheet-setup-github-on-visual-studio-code
+
+
+
   
